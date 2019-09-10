@@ -1,4 +1,4 @@
-def broken_print_and_return_name
-  "Guy Fieri"
-  puts "Guy Fieri"
+def broken_print_and_return_parrot
+  "Squawk!"
+  puts "Squawk!"
 end
