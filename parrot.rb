@@ -1,4 +1,3 @@
-def broken_print_and_return_parrot
-  "Squawk!"
+def parrot
   puts parrot_name = "Squawk!"
-end
+  
